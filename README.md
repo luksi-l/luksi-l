@@ -19,4 +19,4 @@ But this is only usable for windows
 
 ## My favorite music 🎶
 
-[<img src="https://music.youtube.com/watch?v=Emil-26wm-M&feature=share">]
+[/https://music.youtube.com/watch?v=Emil-26wm-M&feature=share]
