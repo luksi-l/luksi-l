@@ -21,3 +21,9 @@ But this is only usable for windows
 ### Styles Of Beyond - Windows
 
 [/https://music.youtube.com/watch?v=Emil-26wm-M&feature=share]
+
+## Roadmap.sh
+
+Check out my profile on roadmap.sh!
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65174680baf19d9da116d3aa?variant=dark)](https://roadmap.sh)
